@@ -19,5 +19,5 @@ Seeking for new opportunities
 
 ---------------------------------
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=AleksSH97&layout=compact&hide_title=true&langs_count=4&theme=dark_github)](https://github.com/AleksSH97)  
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=aleksandr-sh-dev&layout=compact&hide_title=true&langs_count=4&theme=dark_github)](https://github.com/aleksandr-sh-dev)  
 ![LeetCode stats](https://leetcard.jacoblin.cool/aleksandr-sh-dev?theme=dark&ext=heatmap)
